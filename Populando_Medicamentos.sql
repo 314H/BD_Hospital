@@ -115,4 +115,5 @@ VALUES (00038,'Propofol',240.00,'A','Agente anestésico geral adequado para indu
 INSERT INTO Medicamentos(id_medicamento, nome, preco, categoria, descricao)
 VALUES (00039,'Budesonida',10.00,'A','uso nasal, ou por inalação, é utilizado no tratamento de doenças respiratórias, como a asma e a rinite alérgica');
 
-
+INSERT INTO Medicamentos(id_medicamento, nome, preco, categoria, descricao)
+VALUES (00040,'Acetato de glatiramer',100.00,'A','Indicado para reduzir a frequência de recidivas nos pacientes com esclerose múltipla remissiva recidivante.');

@@ -160,7 +160,7 @@ INSERT INTO Funcionarios (matricula, nome)
 VALUES (053, 'Rose');--nurse
 
 INSERT INTO Funcionarios (matricula, nome)
-VALUES (054, 'Colin Marlowe');--Cristina's professor
+VALUES (054, 'Colin Marlowe');--Cristinas professor
 
 INSERT INTO Funcionarios (matricula, nome)
 VALUES (055, 'Harper Avery');--attending
